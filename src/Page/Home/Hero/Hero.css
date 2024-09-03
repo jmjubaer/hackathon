@@ -1,0 +1,8 @@
+.hero_container {
+    background: #002a3b;
+}
+.hero_container .hero_body {
+    padding: 85px 0;
+    display: flex;
+    justify-content: space-around;
+}
